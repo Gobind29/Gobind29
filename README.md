@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>☁️ Aspiring Cloud & DevOps Engineer &nbsp;|&nbsp; 🎓 BCA 2nd Year &nbsp;|&nbsp; 🔷 Microsoft Azure Enthusiast</b>
+  <b>☁️ Aspiring Cloud & DevOps Engineer &nbsp;|&nbsp; 🎓 BCA 2nd Year &nbsp;|&nbsp; 
 </p>
 
 <p align="center">
@@ -25,13 +25,6 @@
 ### 🌐 About Me (Cloud Journey)
 
 - 🎓 **Undergraduate**: BCA (2nd Year) with a strong foundation in Computer Networks, Operating Systems, and DBMS.
-- ☁️ **Specialization**: Cloud Infrastructure, Cloud Security, and DevOps Automation.
-- 🔷 **Current Focus**: Mastering **Microsoft Azure** (working towards **AZ-900 / AZ-104** certification).
-- 🚀 **Hands-on Goals**:
-  - Deploying scalable serverless architectures using **Azure Functions** & **Azure Static Web Apps**.
-  - Building automated CI/CD deployment pipelines using **GitHub Actions**.
-  - Scripting cloud automation and resource management using **Python**, **Bash**, and **PowerShell**.
-- 🐧 **Environment**: Linux enthusiast practicing CLI administration, shell scripting, and network troubleshooting.
 
 ---
 

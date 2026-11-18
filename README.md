@@ -1,7 +1,7 @@
-# Hi there, I'm Gobind! ☁️👨‍💻
+# Hi there, I'm Gobind Bhagat! ☁️👨‍💻
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=190&section=header&text=Gobind%20|%20Aspiring%20Cloud%20Engineer&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Cloud Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=190&section=header&text=Gobind%20Bhagat%20|%20Aspiring%20Cloud%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Cloud Header Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/gobindbhagat29866/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:gobindtourandtravel55@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Gobind29">
@@ -92,9 +92,9 @@
 
 ### 🤝 Connect & Collaborate
 
-- 💼 **LinkedIn**: [Connect with Gobind](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Portfolio**: [github.com/Gobind29](https://github.com/Gobind29)
+- 💼 **LinkedIn**: [Gobind Bhagat](https://www.linkedin.com/in/gobindbhagat29866/)
+- 📧 **Email**: [gobindtourandtravel55@gmail.com](mailto:gobindtourandtravel55@gmail.com)
+- 🌐 **GitHub**: [@Gobind29](https://github.com/Gobind29)
 
 <p align="center">
   <i>☁️ "Building scalable, resilient, and automated systems in the Cloud." ☁️</i>
